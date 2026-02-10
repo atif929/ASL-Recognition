@@ -24,7 +24,7 @@
 # Core Deep Learning and Computer Vision
 numpy==1.24.3
 opencv-python==4.8.0.74
-tensorflow==2.13.0
+tensorflow
 Pillow==10.0.0
 
 # Data Processing and Utilities
@@ -38,4 +38,5 @@ matplotlib==3.7.2
 streamlit==1.28.0
 
 # Video processing
+
 av==10.0.0
