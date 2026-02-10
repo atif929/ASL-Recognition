@@ -1,0 +1,11 @@
+# Ignore datasets
+dataset_asl_alphabet_train/
+asl_alphabet_test/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual env
+venv/
+.env
